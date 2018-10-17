@@ -31,6 +31,31 @@ body {
     }
 }
 
+#sideNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#sideNav li {
+    float: left;
+}
+
+#sideNav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
 .bg-color{
     background-color: #FDF3E7 !important;
 }
+
+
+
+
+
+
